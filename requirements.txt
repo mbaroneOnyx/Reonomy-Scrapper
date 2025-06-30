@@ -8,7 +8,6 @@ Pillow
 plotly
 python-pptx
 selenium
-math
 time
 re
 io
