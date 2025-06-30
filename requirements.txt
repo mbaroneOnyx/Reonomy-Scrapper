@@ -8,8 +8,4 @@ Pillow
 plotly
 python-pptx
 selenium
-re
-io
 openpyxl
-copy
-webdriver
