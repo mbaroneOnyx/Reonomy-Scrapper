@@ -1,0 +1,16 @@
+streamlit
+joblib
+numpy
+pandas
+matplotlib
+scikit-learn>=0.24
+Pillow
+plotly
+python-pptx
+selenium
+math
+time
+re
+io
+openpyxl
+copy
